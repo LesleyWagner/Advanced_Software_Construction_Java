@@ -1,0 +1,85 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<testsuite errors="0" failures="0" hostname="HP" name="autograder.DigTest" skipped="0" tests="1" time="0.61" timestamp="2018-09-29T10:10:58">
+  <properties>
+    <property name="java.vendor" value="Oracle Corporation" />
+    <property name="sun.java.launcher" value="SUN_STANDARD" />
+    <property name="sun.management.compiler" value="HotSpot 64-Bit Tiered Compilers" />
+    <property name="build.sysclasspath" value="ignore" />
+    <property name="os.name" value="Windows 10" />
+    <property name="sun.boot.class.path" value="C:\Program Files\Java\jre1.8.0_171\lib\resources.jar;C:\Program Files\Java\jre1.8.0_171\lib\rt.jar;C:\Program Files\Java\jre1.8.0_171\lib\sunrsasign.jar;C:\Program Files\Java\jre1.8.0_171\lib\jsse.jar;C:\Program Files\Java\jre1.8.0_171\lib\jce.jar;C:\Program Files\Java\jre1.8.0_171\lib\charsets.jar;C:\Program Files\Java\jre1.8.0_171\lib\jfr.jar;C:\Program Files\Java\jre1.8.0_171\classes" />
+    <property name="user.country.format" value="NL" />
+    <property name="sun.desktop" value="windows" />
+    <property name="final.grading" value="true" />
+    <property name="java.vm.specification.vendor" value="Oracle Corporation" />
+    <property name="ant.home" value="C:\Users\HPuser\.p2\pool\plugins\org.apache.ant_1.10.1.v20170504-0840" />
+    <property name="java.runtime.version" value="1.8.0_171-b11" />
+    <property name="user.name" value="HPuser" />
+    <property name="user.language.format" value="nl" />
+    <property name="ant.build.javac.target" value="1.8" />
+    <property name="user.language" value="en" />
+    <property name="sun.boot.library.path" value="C:\Program Files\Java\jre1.8.0_171\bin" />
+    <property name="grader.report.file" value="my-grader-report.xml" />
+    <property name="ant.project.default-target" value="all" />
+    <property name="java.version" value="1.8.0_171" />
+    <property name="user.timezone" value="" />
+    <property name="sun.arch.data.model" value="64" />
+    <property name="java.endorsed.dirs" value="C:\Program Files\Java\jre1.8.0_171\lib\endorsed" />
+    <property name="sun.cpu.isalist" value="amd64" />
+    <property name="sun.jnu.encoding" value="Cp1252" />
+    <property name="file.encoding.pkg" value="sun.io" />
+    <property name="file.separator" value="\" />
+    <property name="java.specification.name" value="Java Platform API Specification" />
+    <property name="java.class.version" value="52.0" />
+    <property name="user.country" value="GB" />
+    <property name="java.home" value="C:\Program Files\Java\jre1.8.0_171" />
+    <property name="java.vm.info" value="mixed mode" />
+    <property name="ant.file" value="C:\Users\HPuser\Google Drive\Study courses\Software Science\Advanced software construction in Java\ps2\ps2\grader.xml" />
+    <property name="os.version" value="10.0" />
+    <property name="final.grader.jar" value="ps2-final-grader.jar" />
+    <property name="path.separator" value=";" />
+    <property name="java.vm.version" value="25.171-b11" />
+    <property name="user.variant" value="" />
+    <property name="ant.library.dir" value="C:\Users\HPuser\.p2\pool\plugins\org.apache.ant_1.10.1.v20170504-0840\lib" />
+    <property name="java.awt.printerjob" value="sun.awt.windows.WPrinterJob" />
+    <property name="sun.io.unicode.encoding" value="UnicodeLittle" />
+    <property name="awt.toolkit" value="sun.awt.windows.WToolkit" />
+    <property name="user.script" value="" />
+    <property name="user.home" value="C:\Users\HPuser" />
+    <property name="java.specification.vendor" value="Oracle Corporation" />
+    <property name="which.tests.ran" value="BETA + FINAL" />
+    <property name="java.library.path" value="C:\Program Files\Java\jre1.8.0_171\bin;C:\WINDOWS\Sun\Java\bin;C:\WINDOWS\system32;C:\WINDOWS;C:/Program Files/Java/jre1.8.0_171/bin/server;C:/Program Files/Java/jre1.8.0_171/bin;C:/Program Files/Java/jre1.8.0_171/lib/amd64;C:\Program Files (x86)\Common Files\Oracle\Java\javapath;C:\ProgramData\Oracle\Java\javapath;c:\Program Files (x86)\Intel\iCLS Client\;c:\Program Files\Intel\iCLS Client\;C:\WINDOWS\system32;C:\WINDOWS;C:\WINDOWS\System32\Wbem;C:\WINDOWS\System32\WindowsPowerShell\v1.0\;C:\Program Files (x86)\Hewlett-Packard\HP Performance Advisor;c:\Program Files (x86)\Hewlett-Packard\HP ProtectTools Security Manager\Bin\;C:\Program Files (x86)\Intel\OpenCL SDK\3.0\bin\x86;C:\Program Files (x86)\Intel\OpenCL SDK\3.0\bin\x64;c:\Program Files\Intel\WiFi\bin\;c:\Program Files\Common Files\Intel\WirelessCommon\;C:\Program Files (x86)\Intel\Intel(R) Management Engine Components\DAL;C:\Program Files\Intel\Intel(R) Management Engine Components\DAL;C:\Program Files (x86)\Intel\Intel(R) Management Engine Components\IPT;C:\Program Files\Intel\Intel(R) Management Engine Components\IPT;C:\FPC\2.6.4\bin\i386-Win32;C:\Program Files\Microsoft SQL Server\120\Tools\Binn\;C:\Program Files\Micr;C:\Program Files\MySQL\MySQL Server 5.1\bin;C:\WINDOWS\system32;C:\WINDOWS;C:\WINDOWS\System32\Wbem;C:\WINDOWS\System32\WindowsPowerShell\v1.0\;C:\Program Files\Microsoft SQL Server\130\Tools\Binn\;C:\Program Files (x86)\Windows Kits\10\Windows Performance Toolkit\;C:\Program Files (x86)\Skype\Phone\;C:\Program Files\gs\gs9.20\lib;C:\Program Files\gs\gs9.20\bin;C:\Program Files\Git\cmd;C:\wamp64\bin\php\php7.0.10;C:\ProgramData\ComposerSetup\bin;C:\Program Files (x86)\Brackets\command;c:\Program Files\Microsoft SQL Server\Client SDK\ODBC\110\Tools\Binn\;c:\Program Files (x86)\Microsoft SQL Server\120\Tools\Binn\ManagementStudio\;c:\Program Files (x86)\Microsoft SQL Server\120\Tools\Binn\;c:\Program Files (x86)\Microsoft SQL Server\120\DTS\Binn\;C:\Program Files (x86)\nodejs\;C:\WINDOWS\System32\OpenSSH\;C:\Program Files\Java\jdk1.8.0_171\bin;C:\Users\HPuser\Anaconda3;C:\Users\HPuser\Anaconda3\Scripts;C:\Users\HPuser\.dnx\bin;c:\Program Files\Intel\WiFi\bin\;c:\Program Files\Common Files\Intel\WirelessCommon\;C:\Program Files (x86)\Microsoft VS Code\bin;C:\Users\HPuser\AppData\Local\Microsoft\WindowsApps;C:\Users\HPuser\AppData\Roaming\Composer\vendor\bin;C:\Users\HPuser\AppData\Local\atom\bin;C:\Users\HPuser\AppData\Roaming\npm;C:\Users\HPuser\AppData\Local\Microsoft\WindowsApps;C:\Program Files\Java\jdk1.8.0_171\bin;;C:\Users\HPuser\eclipse;;." />
+    <property name="java.vendor.url" value="http://java.oracle.com/" />
+    <property name="java.vm.vendor" value="Oracle Corporation" />
+    <property name="java.runtime.name" value="Java(TM) SE Runtime Environment" />
+    <property name="beta.grader.jar" value="ps2-beta-grader.jar" />
+    <property name="sun.java.command" value="org.apache.tools.ant.taskdefs.optional.junit.JUnitTestRunner autograder.DigTest skipNonTests=false filtertrace=true haltOnError=false haltOnFailure=false showoutput=false outputtoformatters=true logfailedtests=true threadid=0 logtestlistenerevents=false formatter=org.apache.tools.ant.taskdefs.optional.junit.XMLJUnitResultFormatter,C:\Users\HPuser\Google Drive\Study courses\Software Science\Advanced software construction in Java\ps2\ps2\.grader\TEST-autograder.DigTest.xml crashfile=C:\Users\HPuser\Google Drive\Study courses\Software Science\Advanced software construction in Java\ps2\ps2\.grader\junitvmwatcher688111800103813950.properties propsfile=C:\Users\HPuser\Google Drive\Study courses\Software Science\Advanced software construction in Java\ps2\ps2\.grader\junit7484520683756274940.properties" />
+    <property name="java.class.path" value="C:\Users\HPuser\Google Drive\Study courses\Software Science\Advanced software construction in Java\ps2\ps2\lib\junit-4.12.jar;C:\Users\HPuser\Google Drive\Study courses\Software Science\Advanced software construction in Java\ps2\ps2\lib\hamcrest-core-1.3.jar;C:\Users\HPuser\Google Drive\Study courses\Software Science\Advanced software construction in Java\ps2\ps2\lib\parserlib.jar;C:\Users\HPuser\Google Drive\Study courses\Software Science\Advanced software construction in Java\ps2\ps2\.grader\bin-tests-final;C:\Users\HPuser\Google Drive\Study courses\Software Science\Advanced software construction in Java\ps2\ps2\.grader\bin-student;C:\Users\HPuser\.p2\pool\plugins\org.apache.ant_1.10.1.v20170504-0840\lib\ant-launcher.jar;C:\Users\HPuser\.p2\pool\plugins\org.apache.ant_1.10.1.v20170504-0840\lib\ant.jar;C:\Users\HPuser\.p2\pool\plugins\org.apache.ant_1.10.1.v20170504-0840\lib\ant-junit.jar;C:\Users\HPuser\.p2\pool\plugins\org.apache.ant_1.10.1.v20170504-0840\lib\ant-junit4.jar" />
+    <property name="ant.version" value="Apache Ant(TM) version 1.10.1 compiled on February 2 2017" />
+    <property name="project.name" value="ps2-minesweeper" />
+    <property name="java.vm.specification.name" value="Java Virtual Machine Specification" />
+    <property name="java.vm.specification.version" value="1.8" />
+    <property name="sun.cpu.endian" value="little" />
+    <property name="didit.desc" value="Running our final tests against your implementation" />
+    <property name="sun.os.patch.level" value="" />
+    <property name="java.io.tmpdir" value="C:\Users\HPuser\AppData\Local\Temp\" />
+    <property name="java.vendor.url.bug" value="http://bugreport.sun.com/bugreport/" />
+    <property name="os.arch" value="amd64" />
+    <property name="java.awt.graphicsenv" value="sun.awt.Win32GraphicsEnvironment" />
+    <property name="java.ext.dirs" value="C:\Program Files\Java\jre1.8.0_171\lib\ext;C:\WINDOWS\Sun\Java\lib\ext" />
+    <property name="user.dir" value="C:\Users\HPuser\Google Drive\Study courses\Software Science\Advanced software construction in Java\ps2\ps2" />
+    <property name="line.separator" value="&#xd;&#xa;" />
+    <property name="zipfile" value="my-submission.zip" />
+    <property name="java.vm.name" value="Java HotSpot(TM) 64-Bit Server VM" />
+    <property name="problem.set" value="ps2" />
+    <property name="basedir" value="C:\Users\HPuser\Google Drive\Study courses\Software Science\Advanced software construction in Java\ps2\ps2" />
+    <property name="ant.java.version" value="1.8" />
+    <property name="ant.core.lib" value="C:\Users\HPuser\.p2\pool\plugins\org.apache.ant_1.10.1.v20170504-0840\lib\ant.jar" />
+    <property name="file.encoding" value="Cp1252" />
+    <property name="java.specification.version" value="1.8" />
+    <property name="grader.dir" value=".grader" />
+    <property name="ant.project.invoked-targets" value="all" />
+  </properties>
+  <testcase classname="autograder.DigTest" name="testBasicDig" time="0.563" />
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>
